@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinomapper", "Pinomapper\Pinomapper.csproj", "{77E8C861-98AA-4DA9-9E0A-A9BDF16B7399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{2A16EABF-490B-4CF3-A5A7-580F6FFF3ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E8C861-98AA-4DA9-9E0A-A9BDF16B7399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E8C861-98AA-4DA9-9E0A-A9BDF16B7399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E8C861-98AA-4DA9-9E0A-A9BDF16B7399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E8C861-98AA-4DA9-9E0A-A9BDF16B7399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A16EABF-490B-4CF3-A5A7-580F6FFF3ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A16EABF-490B-4CF3-A5A7-580F6FFF3ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A16EABF-490B-4CF3-A5A7-580F6FFF3ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A16EABF-490B-4CF3-A5A7-580F6FFF3ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF05C3E-2067-40B0-AA5C-3E0789647AD1}
+	EndGlobalSection
+EndGlobal
